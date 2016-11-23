@@ -25,6 +25,7 @@ Many of these have tests built in, as an added bonus.
 - Daily Programmer https://www.reddit.com/r/dailyprogrammer/ 
 - Project Euler https://projecteuler.net/
 - Code Chef https://www.codechef.com/ 
+- CodingBat http://codingbat.com/
 
 If you get stuck, there are helpers going around who can point you in the right direction.
 
