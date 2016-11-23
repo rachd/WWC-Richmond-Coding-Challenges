@@ -5,6 +5,8 @@ Coding Challenges for the Women Who Code Richmond December 2016 Event
 Find a group of 2-5 people who have knowledge or interest in the same programming language.  
 You DO NOT need to have programming experience to participate, and the best groups will have a variety of experience levels.
 
+If you prefer to work alone, that is okay too!
+
 # 2. Pick a Coding Challenege
 Choose a coding challenge.  Here are some suggestions we have provided.
 
