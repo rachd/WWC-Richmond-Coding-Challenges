@@ -12,7 +12,7 @@ Choose a coding challenge.  Here are some suggestions we have provided.
 
 - Convert a number between 1 and 100 to Roman numerals. Bonus: Convert Roman numerals to Roman numerals.
 - Find the longest common substring between two strings
-- Given two numbers, output a list of common factors
+- Given two numbers, output the greatest common factor
 - Encode a message using a caesar cipher, taking the number to shift as a parameter.
 
 
