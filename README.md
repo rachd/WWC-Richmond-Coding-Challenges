@@ -7,7 +7,7 @@ You DO NOT need to have programming experience to participate, and the best grou
 
 If you prefer to work alone, that is okay too!
 
-# 2. Pick a Coding Challenege
+# 2. Pick a Coding Challenge
 Choose a coding challenge.  Here are some suggestions we have provided.
 
 - Convert a number between 1 and 100 to Roman numerals. Bonus: Convert Roman numerals to Roman numerals.
